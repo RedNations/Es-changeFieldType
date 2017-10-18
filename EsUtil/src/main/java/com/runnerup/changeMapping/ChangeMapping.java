@@ -34,6 +34,10 @@ public class ChangeMapping {
 		//读取旧数据
 		Scan();
 		
+		//建立索引别名
+		alias();
+		
+		//删除旧的索引
 		deleteOldIndex();
 	}
 	
