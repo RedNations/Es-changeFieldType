@@ -1,4 +1,4 @@
-# Es-changeFiledType
+# Es-changeFieldType
 动态修改es mapping 字段类型
 
 
